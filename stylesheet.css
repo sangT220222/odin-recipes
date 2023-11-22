@@ -1,0 +1,56 @@
+div {
+    background-color: red;
+    color : white;
+    font-size: 32px;
+    text-align: center;
+}
+
+p {
+    background-color: green;
+    color : white;
+    font-size: 18px;
+}
+
+button {
+    background-color: orange;
+    font-size: 18px;
+}
+
+.first_class, .second_class {
+    background-color: lightpink;
+    fallback: sans-serif;
+    font-family: Verdana;
+    color: black;
+
+}
+
+.second_class {
+    font-size: 24px;
+}
+
+#first_id {
+    color: blue;
+    font-size: 36px;
+}
+
+#second_id {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+
+}
+
+.grouping_practice, .grouping_practice_2 { 
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.grouping_practice {
+    background-color: black;
+    color: white;
+}
+
+.grouping_practice_2 {
+    background-color: yellow;
+}
